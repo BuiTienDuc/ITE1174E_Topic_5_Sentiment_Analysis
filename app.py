@@ -56,9 +56,9 @@ if page == "Home – Giới thiệu đề tài":
     from pages.Home import show
     show()
 
-elif page == "Analysis – Sentiment Analysis":
-    from pages.Analysis import show
-    show()
+# elif page == "Analysis – Sentiment Analysis":
+#     from pages.Analysis import show
+#     show()
 
 elif page == "Training Info – Thông tin mô hình":
     from pages.Training_Info import show
